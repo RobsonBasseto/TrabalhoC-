@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "015bfd95-eb86-4dd6-849e-c42488ee76f9": {
+      "ProjectGuid": "015bfd95-eb86-4dd6-849e-c42488ee76f9",
+      "DisplayName": "ControleEstoque",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

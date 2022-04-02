@@ -1,0 +1,98 @@
+D:\Users\rrobasseto\Desktop\ControleEstoque\bin\Debug\ControleEstoque.exe.config
+D:\Users\rrobasseto\Desktop\ControleEstoque\bin\Debug\ControleEstoque.exe
+D:\Users\rrobasseto\Desktop\ControleEstoque\bin\Debug\ControleEstoque.pdb
+D:\Users\rrobasseto\Desktop\ControleEstoque\obj\Debug\ControleEstoque.csproj.AssemblyReference.cache
+D:\Users\rrobasseto\Desktop\ControleEstoque\obj\Debug\ControleEstoque.csproj.SuggestedBindingRedirects.cache
+D:\Users\rrobasseto\Desktop\ControleEstoque\obj\Debug\ControleEstoque.frmPrincipal.resources
+D:\Users\rrobasseto\Desktop\ControleEstoque\obj\Debug\ControleEstoque.Properties.Resources.resources
+D:\Users\rrobasseto\Desktop\ControleEstoque\obj\Debug\ControleEstoque.csproj.GenerateResource.cache
+D:\Users\rrobasseto\Desktop\ControleEstoque\obj\Debug\ControleEstoque.csproj.CoreCompileInputs.cache
+D:\Users\rrobasseto\Desktop\ControleEstoque\obj\Debug\ControleEstoque.exe
+D:\Users\rrobasseto\Desktop\ControleEstoque\obj\Debug\ControleEstoque.pdb
+D:\Users\rrobasseto\Desktop\ControleEstoque\obj\Debug\ControleEstoque.frmBase.resources
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\bin\Debug\ControleEstoque.exe.config
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\bin\Debug\ControleEstoque.exe
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\bin\Debug\ControleEstoque.pdb
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\bin\Debug\EntityFramework.dll
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\bin\Debug\EntityFramework6.Npgsql.dll
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\bin\Debug\Npgsql.dll
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\bin\Debug\System.Buffers.dll
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\bin\Debug\System.Memory.dll
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\bin\Debug\System.Numerics.Vectors.dll
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\bin\Debug\System.Text.Encodings.Web.dll
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\bin\Debug\System.Text.Json.dll
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\bin\Debug\System.ValueTuple.dll
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\bin\Debug\EntityFramework.xml
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\bin\Debug\EntityFramework6.Npgsql.xml
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\bin\Debug\Npgsql.pdb
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\bin\Debug\Npgsql.xml
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\bin\Debug\System.Buffers.xml
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\bin\Debug\System.Memory.xml
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\bin\Debug\System.Numerics.Vectors.xml
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\bin\Debug\System.Text.Encodings.Web.xml
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\bin\Debug\System.Text.Json.xml
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\bin\Debug\System.ValueTuple.xml
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\obj\Debug\ControleEstoque.csproj.AssemblyReference.cache
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\obj\Debug\ControleEstoque.csproj.SuggestedBindingRedirects.cache
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\obj\Debug\ControleEstoque.frmBase.resources
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\obj\Debug\ControleEstoque.frmEntrada.resources
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\obj\Debug\ControleEstoque.frmPrincipal.resources
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\obj\Debug\ControleEstoque.frmProduto.resources
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\obj\Debug\ControleEstoque.frmUsuario.resources
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\obj\Debug\ControleEstoque.Properties.Resources.resources
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\obj\Debug\ControleEstoque.csproj.GenerateResource.cache
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\obj\Debug\ControleEstoque.csproj.CoreCompileInputs.cache
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\obj\Debug\ControleEstoque.csproj.CopyComplete
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\obj\Debug\ControleEstoque.exe
+D:\Users\rrobasseto\Desktop\Trabalhos\ControleEstoque\obj\Debug\ControleEstoque.pdb
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\bin\Debug\ControleEstoque.exe.config
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\bin\Debug\ControleEstoque.exe
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\bin\Debug\ControleEstoque.pdb
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\bin\Debug\EntityFramework.dll
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\bin\Debug\EntityFramework6.Npgsql.dll
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\bin\Debug\Npgsql.dll
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\bin\Debug\System.Buffers.dll
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\bin\Debug\System.Memory.dll
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\bin\Debug\System.Numerics.Vectors.dll
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\bin\Debug\System.Text.Encodings.Web.dll
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\bin\Debug\System.Text.Json.dll
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\bin\Debug\System.ValueTuple.dll
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\bin\Debug\EntityFramework.xml
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\bin\Debug\EntityFramework6.Npgsql.xml
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\bin\Debug\Npgsql.pdb
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\bin\Debug\Npgsql.xml
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\bin\Debug\System.Buffers.xml
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\bin\Debug\System.Memory.xml
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\bin\Debug\System.Numerics.Vectors.xml
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\bin\Debug\System.Text.Encodings.Web.xml
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\bin\Debug\System.Text.Json.xml
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\bin\Debug\System.ValueTuple.xml
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\obj\Debug\ControleEstoque.csproj.AssemblyReference.cache
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\obj\Debug\ControleEstoque.csproj.SuggestedBindingRedirects.cache
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\obj\Debug\ControleEstoque.frmBase.resources
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\obj\Debug\ControleEstoque.frmEntrada.resources
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\obj\Debug\ControleEstoque.frmPrincipal.resources
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\obj\Debug\ControleEstoque.frmProduto.resources
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\obj\Debug\ControleEstoque.frmUsuario.resources
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\obj\Debug\ControleEstoque.Properties.Resources.resources
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\obj\Debug\ControleEstoque.csproj.GenerateResource.cache
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\obj\Debug\ControleEstoque.csproj.CoreCompileInputs.cache
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\obj\Debug\ControleEstoque.csproj.CopyComplete
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\obj\Debug\ControleEstoque.exe
+D:\Users\rrobasseto\Desktop\ControleEstoque 1.1\obj\Debug\ControleEstoque.pdb
